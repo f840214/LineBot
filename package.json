@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "4.16.4",
-    "linebot": "1.4.1"
+    "express": "^4.16.4",
+    "linebot": "^1.4.1"
   }
 }
